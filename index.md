@@ -8,7 +8,7 @@ Firstly, thank you for checking out our page.
 
 This page contains instructions to download the first beta release of our newly designed "AYLUS Volunteers" app for AYLUS members to check into their branch and access [webapp](https://aylus.herokuapp.com) features on their iOS devices. Android support will be available upon request, which can voiced by [creating an issue here](https://github.com/aylusirvine/betainstructions/issues). 
 
-Our app is currently stable, designed v0.1. We are looking forward to gaining user feedback and implementing new features through our "Feedback Form" functionality inside our app. It is completely safe and only sends your AYLUS Volunteers data to process login/elevatedaccess to certain pages in our app. 
+Our app is currently stable, designated v0.1. We are looking forward to gaining user feedback and implementing new features through our "Feedback Form" functionality inside our app. It is completely safe and only sends your AYLUS Volunteers data to process login/elevatedaccess to certain pages in our app. 
 
 **If you frequently use a mobile device to check our events, you may find this app useful and worth it to download. It'll take 15 minutes of your time, and it'll make our time developing this app worth it. :)**
 
