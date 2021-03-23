@@ -19,8 +19,8 @@ To maintain a small-scale app like this would be no different from maintaining a
 ### Any screenshots? 
 
 Sure! Instructions are below.  
-<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Firsttt.png?raw=true" alt="first shot" width="450"/>
-<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Seconds.png?raw=true" alt="second shot" width="450"/>
+<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Firsttt.png?raw=true" alt="first shot" width="300"/>
+<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Seconds.png?raw=true" alt="second shot" width="300"/>
 
 ## Get Started
 
