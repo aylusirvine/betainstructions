@@ -5,6 +5,7 @@ relative_links:
   collections: true
 github:
   is_project_pages: false
-title: AYLUS Volunteers - by AYLUS Irvine
 
 theme: jekyll-theme-cayman
+title: AYLUS Volunteers - by AYLUS Irvine
+description: Learn how to install the beta on your Apple devices.
