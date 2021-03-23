@@ -63,7 +63,8 @@ This may or may not be necessary for you. In order to test, click on the app and
 ## After Installation (IMPORTANT)
 
 - Disconnect mobile from PC/Mac.
-- You can leave AltStore open or quit the app. **Do not delete it, or your app will stop working after a week. AltStore refreshes the apps for you every week.**
+- You can remove AltServer from your PC/Mac if you would like.
+- You can leave the AltStore app open or quit the app. **Do not delete it, or your app will stop working after a week. AltStore refreshes the apps for you every week.**
 
 At this point, you should be all set! Try it out and enjoy!
 
