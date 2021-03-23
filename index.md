@@ -18,6 +18,7 @@ To maintain a small-scale app like this would be no different from maintaining a
 
 ## Prerequisites
 
+- Have an iOS device, self-explanatory. 10+ MB free is optimal.
 - Have a Windows PC or a Mac.
 - Have an Apple ID. If you normally download apps on your iPhone/iPad, you can use that account's username/password for a future step.
 - Have an iPhone/iPad charger cable, and connect that to your computer through a USB port.
