@@ -8,12 +8,25 @@ This page contains instructions to download the first beta release of our newly 
 
 Our app is currently stable, designed v0.1. We are looking forward to gaining user feedback and implementing new features through our "Feedback Form" functionality inside our app. It is completely safe and only sends your AYLUS Volunteers data to process login/elevatedaccess to certain pages in our app. 
 
-If you frequently use a mobile device to check our events, you may find this app useful and worth it to download. 
+**If you frequently use a mobile device to check our events, you may find this app useful and worth it to download. It'll take 15 minutes of your time.**
 
 ## Why is this not on the App Store or through an Apple-related beta distribution service such as [TestFlight](https://developer.apple.com/testflight/)?
 
 To maintain a small-scale app like this would be no different from maintaining an app used by 1M+ people. Both are subject to review and vetted tests by Apple staff, and for something like AYLUS Volunteers this unnecessarily complicates the work we have to do. Additionally, **the Apple Developer program costs $99 every year.** Putting up with such a cost is simply not worth it, especially when we can use the money to donate or help others in our community.
 
+# Get Started
+
+## Prerequisites
+
+- Have a Windows PC or a Mac.
+- Have an iPhone/iPad charger cable, and connect that to your computer through a USB port.
+
+## Step 1: Set up AltStore
+
+- Download [AltServer](https://altstore.io/) for your device. Install it and open the application.
+- Gain trust to connect to your device by unlocking it and clicking ```Trust.```
+- Using **Image 1** from the AltServer website, click ```Install AltStore --> .... iPhone.```
+- On the Home Screen of your device, you should see a new app: ```AltStore.```
 
 # After Installation
 
