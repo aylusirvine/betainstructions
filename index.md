@@ -38,7 +38,7 @@ Sure! Keep scrolling down to find installation instructions.
 ![](https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Screen%20Shot%202021-03-23%20at%204.11.19%20PM.png?raw=true)
 
 - Gain trust to connect to your device by unlocking it and clicking ```Trust.```
-- Using **Image 1** from the AltServer website, click ```Install AltStore --> .... iPhone.``` On Mac, no actual application should show up; it should be in the top header bar.  
+- Using the image from **Step 1** on the AltServer website, click ```Install AltStore --> .... iPhone.``` On Mac, no actual application should show up; it should be in the top header bar.  
 *It will prompt you asking to sign in. This is where your Apple ID comes in. You will need to input both your email and password into the prompt.*
 - On the Home Screen of your device, you should see a new app: ```AltStore.```
 - Open that app.
