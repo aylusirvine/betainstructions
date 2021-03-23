@@ -5,5 +5,7 @@ relative_links:
   collections: true
 include:
   - README.md
+github:
+  is_project_pages: false
 
 theme: jekyll-theme-cayman
