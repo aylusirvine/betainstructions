@@ -3,9 +3,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
 github:
   is_project_pages: false
+title: AYLUS Volunteers - by AYLUS Irvine
 
 theme: jekyll-theme-cayman
