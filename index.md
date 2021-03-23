@@ -27,10 +27,11 @@ To maintain a small-scale app like this would be no different from maintaining a
 
 - Download [AltServer](https://altstore.io/) for your device. Install it and open the application.
 - **FOR MACS ONLY, you will need to install a Mail plug-in per the instructions here: **  
-![altstore.io faq image](https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Screen%20Shot%202021-03-23%20at%204.11.19%20PM.png)
+![altstore.io faq image](/assets/images/Screen%20Shot%202021-03-23%20at%204.11.19%20PM.png)
+
 - Gain trust to connect to your device by unlocking it and clicking ```Trust.```
 - Using **Image 1** from the AltServer website, click ```Install AltStore --> .... iPhone.``` On Mac, no actual application should show up; it should be in the top header bar.  
-:arrow_forward: *It will prompt you asking to sign in. This is where your Apple ID comes in. You will need to input both your email and password into the prompt.*
+*It will prompt you asking to sign in. This is where your Apple ID comes in. You will need to input both your email and password into the prompt.*
 - On the Home Screen of your device, you should see a new app: ```AltStore.```
 - Open that app.
 - **DO NOT** disconnect your device from your computer yet.
