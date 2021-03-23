@@ -31,7 +31,7 @@ Sure! Keep scrolling down to find installation instructions.
 - Have an Apple ID. If you normally download apps on your iPhone/iPad, you can use that account's username/password for a future step.
 - Have an iPhone/iPad charger cable, and connect that to your computer through a USB port.
 
-### Step 1: Set up AltStore ([their GitHub](https://github.com/rileytestut/AltStore) has over 4.5k stars, and they are a trustworthy source.)
+### Step 1: Set up AltStore ([their GitHub](https://github.com/rileytestut/AltStore) has over 4.8k stars, and they are a trustworthy source.)
 
 - Download [AltServer](https://altstore.io/) for your device. Install it and open the application.
 - **FOR MACS ONLY, you will need to install a Mail plug-in per the instructions here: **  
