@@ -16,6 +16,12 @@ Our app is currently stable, designed v0.1. We are looking forward to gaining us
 
 To maintain a small-scale app like this would be no different from maintaining an app used by 1M+ people. Both are subject to review and vetted tests by Apple staff, and for something like AYLUS Volunteers this unnecessarily complicates the work we have to do. Additionally, **the Apple Developer program costs $99 every year.** Putting up with such a cost is simply not worth it, especially when we can use the money to donate or help others in our community.
 
+### Any screenshots? 
+
+Sure! Instructions are below.  
+<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Firsttt.png?raw=true" alt="first shot" width="450"/>
+<img src="https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Seconds.png?raw=true" alt="second shot" width="450"/>
+
 ## Get Started
 
 ### Prerequisites
@@ -54,10 +60,10 @@ This may or may not be necessary for you. In order to test, click on the app and
 - Go to Settings and for iOS 14, you should see a new tab under your account something along the lines of "Developer" or "Certificate." Accept the developer certificate (should be under your Apple ID and hence your email).
 - For iOS 13 and under, go to ```General --> Profiles --> Device Management``` and accept the certificate there.
 
-## After Installation
+## After Installation (IMPORTANT)
 
 - Disconnect mobile from PC/Mac.
-- You can leave AltStore open or quit the app.
+- You can leave AltStore open or quit the app. **Do not delete it, or your app will stop working after a week. AltStore refreshes the apps for you every week.**
 
 At this point, you should be all set! Try it out and enjoy!
 
