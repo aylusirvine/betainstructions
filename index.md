@@ -34,7 +34,7 @@ Sure! Keep scrolling down to find installation instructions.
 ### Step 1: Set up AltStore ([their GitHub](https://github.com/rileytestut/AltStore) has over 4.8k stars, and they are a trustworthy source.)
 
 - Download [AltServer](https://altstore.io/) for your device. Install it and open the application.
-- **FOR MACS ONLY, you will need to install a Mail plug-in per the instructions here: **  
+**FOR MACS ONLY, you will need to install a Mail plug-in per the instructions here:**  
 ![](https://github.com/aylusirvine/betainstructions/blob/main/assets/images/Screen%20Shot%202021-03-23%20at%204.11.19%20PM.png?raw=true)
 
 - Gain trust to connect to your device by unlocking it and clicking ```Trust.```
