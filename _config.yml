@@ -5,6 +5,7 @@ relative_links:
   collections: true
 github:
   is_project_pages: false
+  repository_url: https://github.com/aylusirvine/betainstructions
 
 theme: jekyll-theme-cayman
 title: AYLUS Volunteers - by AYLUS Irvine
