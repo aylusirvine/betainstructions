@@ -1,6 +1,8 @@
-# Important Information
+# Instructions
 
-## What is this?
+## Important Information
+
+### What is this?
 
 Firstly, thank you for checking out our page. 
 
@@ -10,20 +12,20 @@ Our app is currently stable, designed v0.1. We are looking forward to gaining us
 
 **If you frequently use a mobile device to check our events, you may find this app useful and worth it to download. It'll take 15 minutes of your time, and it'll make our time developing this app worth it. :)**
 
-## Why is this not on the App Store or through an Apple-related beta distribution service such as [TestFlight](https://developer.apple.com/testflight/)?
+### Why is this not on the App Store or through an Apple-related beta distribution service such as [TestFlight](https://developer.apple.com/testflight/)?
 
 To maintain a small-scale app like this would be no different from maintaining an app used by 1M+ people. Both are subject to review and vetted tests by Apple staff, and for something like AYLUS Volunteers this unnecessarily complicates the work we have to do. Additionally, **the Apple Developer program costs $99 every year.** Putting up with such a cost is simply not worth it, especially when we can use the money to donate or help others in our community.
 
-# Get Started
+## Get Started
 
-## Prerequisites
+### Prerequisites
 
 - Have an iOS device, self-explanatory. 10+ MB free is optimal.
 - Have a Windows PC or a Mac.
 - Have an Apple ID. If you normally download apps on your iPhone/iPad, you can use that account's username/password for a future step.
 - Have an iPhone/iPad charger cable, and connect that to your computer through a USB port.
 
-## Step 1: Set up AltStore ([their GitHub](https://github.com/rileytestut/AltStore) has over 4.5k stars, and they are a trustworthy source.)
+### Step 1: Set up AltStore ([their GitHub](https://github.com/rileytestut/AltStore) has over 4.5k stars, and they are a trustworthy source.)
 
 - Download [AltServer](https://altstore.io/) for your device. Install it and open the application.
 - **FOR MACS ONLY, you will need to install a Mail plug-in per the instructions here: **  
@@ -36,7 +38,7 @@ To maintain a small-scale app like this would be no different from maintaining a
 - Open that app.
 - **DO NOT** disconnect your device from your computer yet.
 
-## Step 2: Download the .ipa (beta application) file from Dropbox.
+### Step 2: Download the .ipa (beta application) file from Dropbox.
 - **On your mobile device (in Safari),** navigate to http://bit.ly/airvolunteers.
 - Click ```Continue to Website --> Download --> Direct Download.```
 - There should be a new screen popping up with the name "airNew.ipa." On the upper right, there should be an "up arrow/share" button. Click that.
@@ -45,24 +47,27 @@ To maintain a small-scale app like this would be no different from maintaining a
 - At this point, **wait a minute or so** until "Volunteers" pops up on the app menu in AltStore.
 - This means the app has been installed correctly. 
 
-## Step 3: Trust Developer Certificate
+### Step 3: Trust Developer Certificate
 
 This may or may not be necessary for you. In order to test, click on the app and see if it lets you open. If it doesn't:
 
 - Go to Settings and for iOS 14, you should see a new tab under your account something along the lines of "Developer" or "Certificate." Accept the developer certificate (should be under your Apple ID and hence your email).
 - For iOS 13 and under, go to ```General --> Profiles --> Device Management``` and accept the certificate there.
 
-# After Installation
+## After Installation
+
+- Disconnect mobile from PC/Mac.
+- You can leave AltStore open or quit the app.
 
 At this point, you should be all set! Try it out and enjoy!
 
 Writing this guide and creating the app took me a veritable amount of effort, so please consider using this app as much as you can (by registering and participating in as many events as you can). Thank you!
 
 
-## Issues/contributing/developing the app 
+### Issues/contributing/developing the app 
 
 If you encounter any issues, create a new request [here](https://github.com/aylusirvine/betainstructions/issues).  
 If you have any feature requests, fill out the in-app form after installing it on your device.  
 If you are a member of AYLUS Irvine and you would like to contribute code for the better of the community (alongside me), feel free to reach out by [emailing me personally](mailto:brians3476@gmail.com).
 
-# Thank you!
+## Thank you! - AYLUS Irvine
