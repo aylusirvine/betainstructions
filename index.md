@@ -47,7 +47,7 @@ Sure! Keep scrolling down to find installation instructions.
 ### Step 2: Download the .ipa (beta application) file from Dropbox.
 - **On your mobile device (in Safari),** navigate to [http://bit.ly/airvolunteerapp](http://bit.ly/airvolunteerapp).
 - Click ```Continue to Website --> Download --> Direct Download.```
-- There should be a new screen popping up with the name "airNew.ipa." On the upper right, there should be an "up arrow/share" button. Click that.
+- There should be a new screen popping up with the name "air0.1.ipa." On the upper right, there should be an "up arrow/share" button. Click that.
 - At this time, you should see a row of apps, one of them being "AltStore."
 - Now with your device **still connected to the PC/Mac**, click AltStore and it will take you to the app.
 - At this point, **wait a minute or so** until "Volunteers" pops up on the app menu in AltStore.
