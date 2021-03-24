@@ -64,9 +64,10 @@ This may or may not be necessary for you. In order to test, click on the app and
 
 - Disconnect mobile from PC/Mac.
 - You can remove AltServer from your PC/Mac if you would like.
-- You can leave the AltStore app open or quit the app. **Do not delete it, or your app will stop working after a week. AltStore refreshes the apps for you every week.**
+- You can leave the AltStore app open or quit the app. **Do not delete it, or your app will stop working after a week. AltStore refreshes the apps for you every week.** 
+- If you want to uninstall our app, you can uninstall it normally and it won't leave any traces behind.
 
-At this point, you should be all set! Try it out and enjoy!
+At this point, you should be all set! Try it out and enjoy! We've just sideloaded the app to your phone. :)
 
 Writing this guide and creating the app took me a veritable amount of effort, so please consider using this app as much as you can (by registering and participating in as many events as you can). Thank you!
 
